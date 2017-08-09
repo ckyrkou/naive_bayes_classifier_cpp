@@ -1,4 +1,4 @@
-# naive_bayes_classifier_cpp
+# Gaussian Naive Bayes classifier in C++
 Implementation of a Gaussian Naive Bayes classifier to predict the behavior of vehicles on a highway
 
 In this exercise I have implemented a Gaussian Naive Bayes classifier to predict the behavior of vehicles on a highway. We are looking for 3 behaviours on a 3 lane highway (with lanes of 4 meter width). The dots represent the d (y axis) and s (x axis) coordinates of vehicles as they either...
