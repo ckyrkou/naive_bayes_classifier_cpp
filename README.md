@@ -11,10 +11,7 @@ Your job is to write a classifier that can predict which of these three maneuver
 
 Each coordinate contains 4 pieces of information:
 
-s
-d
-s_dot
-d_dot
+s,d,s_dot,d_dot
 
 which correspond to fernet coordinates.
 
